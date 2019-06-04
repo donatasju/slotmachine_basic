@@ -1,0 +1,28 @@
+body {
+    padding-top: 3.8rem;
+}
+
+.index-content, .slot3x3-content, .slot5x3-content {
+    margin: 20px;
+}
+
+.index-content input, .index-content label {
+    margin: 8px 0;
+    display: block;
+}
+
+.slot-image {
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slot3x3-images, .slot5x3-images {
+    margin-bottom: 10px;
+}
+
+.image-container {
+    display: flex;
+}
